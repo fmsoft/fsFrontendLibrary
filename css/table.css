@@ -8,3 +8,106 @@
  *  @author         fsSoft
  *  @see            https://github.com/fmsoft/fsFrontendLibrary
 */
+
+
+.fsTable, .fsTableRound{
+    width:auto;
+    height:auto;
+    border-collapse: collapse;
+    color:#000;
+    font-family:'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+    text-align: center;
+    font-size: 12px;
+    border-spacing: 0;
+}
+
+.fsTable td, .fsTableRound td{
+    padding:15px;    
+}
+
+.fsTable th, .fsTableRound th{
+    padding:5px;
+    font-weight: bold;
+    font-size: 14px;
+    height: 40px;    
+    text-shadow: 0 1px 0 rgba(255,255,255,.5); 
+    border-bottom: 1px solid #ccc;
+    background: #e8e8e8; /* Old browsers */
+    background: -moz-linear-gradient(top,  #e8e8e8 0%, #eeeeee 99%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e8e8e8), color-stop(99%,#eeeeee)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #e8e8e8 0%,#eeeeee 99%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #e8e8e8 0%,#eeeeee 99%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #e8e8e8 0%,#eeeeee 99%); /* IE10+ */
+    background: linear-gradient(to bottom,  #e8e8e8 0%,#eeeeee 99%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8e8e8', endColorstr='#eeeeee',GradientType=0 ); /* IE6-8 */
+    cursor:default;
+}
+
+.fsTable tr:nth-child(even), .fsTableRound tr:nth-child(even){
+    background: #f5f5f5;
+    -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.8) inset; 
+    -moz-box-shadow:0 1px 0 rgba(255,255,255,.8) inset;  
+    box-shadow: 0 1px 0 rgba(255,255,255,.8) inset;        
+}
+
+.fsTable tr:hover ,.fsTableRound tr:hover{
+    background: #fbf8e9;
+    -o-transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -ms-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;     
+}  
+
+.fsTableRound{
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    -webkit-box-shadow: 0 1px 1px #ccc; 
+    -moz-box-shadow: 0 1px 1px #ccc; 
+    box-shadow: 0 1px 1px #ccc;         
+}
+
+.fsTableRound td:first-child, .fsTableRound th:first-child {
+    border-left: none;
+}
+
+.fsTableRound th:first-child {
+    -moz-border-radius: 6px 0 0 0;
+    -webkit-border-radius: 6px 0 0 0;
+    border-radius: 6px 0 0 0;
+}
+
+.fsTableRound th:last-child {
+    -moz-border-radius: 0 6px 0 0;
+    -webkit-border-radius: 0 6px 0 0;
+    border-radius: 0 6px 0 0;
+}
+
+.fsTableRound th:only-child{
+    -moz-border-radius: 6px 6px 0 0;
+    -webkit-border-radius: 6px 6px 0 0;
+    border-radius: 6px 6px 0 0;
+}
+
+.fsTableRound tr:last-child td:first-child {
+    -moz-border-radius: 0 0 0 6px;
+    -webkit-border-radius: 0 0 0 6px;
+    border-radius: 0 0 0 6px;
+}
+
+.fsTableRound tr:last-child td:last-child {
+    -moz-border-radius: 0 0 6px 0;
+    -webkit-border-radius: 0 0 6px 0;
+    border-radius: 0 0 6px 0;
+}
+
+.fsTableRound tr:hover {
+    background: #fbf8e9;
+    -o-transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -ms-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out; 
+    cursor:pointer;
+}  

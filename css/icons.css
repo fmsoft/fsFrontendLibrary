@@ -1,0 +1,852 @@
+
+/**
+ *  Button styles
+ *
+ *  @filename       icons.css
+ *  @date           14.01.13
+ *  @author         fsSoft
+ *  @see            https://github.com/fmsoft/fsFrontendLibrary
+*/
+
+.fsIconHome,.fsIconPencil,.fsIconDroplet,.fsIconImage,.fsIconImages,.fsIconCamera,.fsIconMusic,.fsIconPlay,.fsIconCamera2,.fsIconBullhorn,.fsIconConnection,.fsIconPodcast,.fsIconFeed,.fsIconBooks,.fsIconFile,.fsIconFile2,.fsIconFile3,.fsIconStack,.fsIconFolder,.fsIconFolderOpen,.fsIconTag,.fsIconTags,.fsIconBarcode,.fsIconCart,.fsIconCoin,.fsIconCredit,.fsIconSupport,.fsIconPhone,.fsIconPhoneHangUp,.fsIconAddressBook,.fsIconEnvelop,.fsIconPushpin,.fsIconLocation,.fsIconCompass,.fsIconClock,.fsIconClock2,.fsIconAlarm,.fsIconBell,.fsIconCalendar,.fsIconCalendar2,.fsIconPrint,.fsIconKeyboard,.fsIconScreen,.fsIconLaptop,.fsIconMobile,.fsIconMobile2,.fsIconTablet,.fsIconTv,.fsIconCabinet,.fsIconDisk,.fsIconUndo,.fsIconRedo,.fsIconUndo2,.fsIconRedo2,.fsIconForward,.fsIconReply,.fsIconBubble,.fsIconBubbles,.fsIconBubbles2,.fsIconBubble2,.fsIconBubbles3,.fsIconBubbles4,.fsIconUser,.fsIconUsers,.fsIconUser2,.fsIconUsers2,.fsIconUser3,.fsIconUser4,.fsIconQuotesLeft,.fsIconBusy,.fsIconSpinner,.fsIconSpinner2,.fsIconSpinner3,.fsIconSpinner4,.fsIconSpinner5,.fsIconBinoculars,.fsIconSearch,.fsIconZoomIn,.fsIconZoomOut,.fsIconExpand,.fsIconContract,.fsIconExpand2,.fsIconContract2,.fsIconKey,.fsIconLock,.fsIconLock2,.fsIconUnlocked,.fsIconWrench,.fsIconSettings,.fsIconEqualizer,.fsIconCog,.fsIconCogs,.fsIconCog2,.fsIconAid,.fsIconPie,.fsIconStats,.fsIconGift,.fsIconTrophy,.fsIconLeaf,.fsIconFire,.fsIconLab,.fsIconRemove,.fsIconBriefcase,.fsIconAirplane,.fsIconTruck,.fsIconRoad,.fsIconAccessibility,.fsIconTarget,.fsIconShield,.fsIconLightning,.fsIconSwitch,.fsIconPowerCord,.fsIconSignup,.fsIconTree,.fsIconCloud,.fsIconCloudDownload,.fsIconDownload,.fsIconUpload,.fsIconEarth,.fsIconLink,.fsIconFlag,.fsIconAttachment,.fsIconEye,.fsIconEyeBlocked,.fsIconBookmark,.fsIconBookmarks,.fsIconBrightnessMedium,.fsIconBrightnessContrast,.fsIconContrast,.fsIconStar,.fsIconStar2,.fsIconStar3,.fsIconHeart,.fsIconHeart2,.fsIconHeartBroken,.fsIconThumbsUp,.fsIconThumbsUp2,.fsIconWarning,.fsIconNotification,.fsIconQuestion,.fsIconInfo,.fsIconInfo2,.fsIconBlocked,.fsIconCancelCircle,.fsIconCheckmarkCircle,.fsIconSpam,.fsIconClose,.fsIconCheckmark,.fsIconCheckmark2,.fsIconMinus,.fsIconPlus,.fsIconEnter,.fsIconExit,.fsIconPlay2,.fsIconPause,.fsIconStop,.fsIconBackward,.fsIconForward2,.fsIconPlay3,.fsIconPause2,.fsIconStop2,.fsIconBackward2,.fsIconForward3,.fsIconFirst,.fsIconLast,.fsIconPrevious,.fsIconNext,.fsIconEject,.fsIconVolumeHigh,.fsIconVolumeMedium,.fsIconVolumeLow,.fsIconVolumeMute,.fsIconVolumeMute2,.fsIconVolumeIncrease,.fsIconVolumeDecrease,.fsIconLoop,.fsIconLoop2,.fsIconLoop3,.fsIconShuffle,.fsIconArrowUpLeft,.fsIconArrowUp,.fsIconArrowUpRight,.fsIconArrowRight,.fsIconArrowDownRight,.fsIconArrowDown,.fsIconArrowDownLeft,.fsIconArrowLeft,.fsIconArrowUpLeft2,.fsIconArrowUp2,.fsIconArrowUpRight2,.fsIconArrowRight2,.fsIconArrowDownRight2,.fsIconArrowDown2,.fsIconArrowDownLeft2,.fsIconArrowLeft2,.fsIconArrowUpLeft3,.fsIconArrowUp3,.fsIconArrowUpRight3,.fsIconArrowRight3,.fsIconArrowDownRight3,.fsIconArrowDown3,.fsIconArrowDownLeft3,.fsIconArrowLeft3,.fsIconTab,.fsIconCheckboxChecked,.fsIconCheckboxUnchecked,.fsIconCheckboxPartial,.fsIconRadioChecked,.fsIconRadioUnchecked,.fsIconCrop,.fsIconScissors,.fsIconFilter,.fsIconTextHeight,.fsIconTextWidth,.fsIconPilcrow,.fsIconLeftToRight,.fsIconRightToLeft,.fsIconNewTab,.fsIconEmbed,.fsIconCode,.fsIconConsole,.fsIconShare,.fsIconMail,.fsIconGooglePlus,.fsIconFacebook,.fsIconTwitter,.fsIconFeed2,.fsIconVimeo,.fsIconFlickr,.fsIconPicassa,.fsIconDribbble,.fsIconForrst,.fsIconDeviantart,.fsIconSteam,.fsIconGithub,.fsIconGithub2,.fsIconWordpress,.fsIconJoomla,.fsIconBlogger,.fsIconTumblr,.fsIconTux,.fsIconApple,.fsIconAndroid,.fsIconWindows8,.fsIconSoundcloud,.fsIconSkype,.fsIconReddit,.fsIconLinkedin,.fsIconLastfm,.fsIconDelicious,.fsIconStumbleupon,.fsIconStackoverflow,.fsIconPinterest,.fsIconXing,.fsIconFoursquare,.fsIconPaypal,.fsIconYelp,.fsIconLibreoffice,.fsIconFilePdf,.fsIconFileOpenoffice,.fsIconFileWord,.fsIconFileExcel,.fsIconFileXml,.fsIconFileCss,.fsIconHtml5,.fsIconCss3,.fsIconChrome,.fsIconFirefox,.fsIconIE,.fsIconOpera,.fsIconSafari,.fsIconIcoMoon {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-image: url(images/fssprites.png);
+	background-repeat: no-repeat;
+}
+.fsIconHome {
+	background-position: 0 0;
+}
+.fsIconPencil {
+	background-position: -32px 0;
+}
+.fsIconDroplet {
+	background-position: -64px 0;
+}
+.fsIconImage {
+	background-position: -96px 0;
+}
+.fsIconImages {
+	background-position: -128px 0;
+}
+.fsIconCamera {
+	background-position: -160px 0;
+}
+.fsIconMusic {
+	background-position: -192px 0;
+}
+.fsIconPlay {
+	background-position: -224px 0;
+}
+.fsIconCamera2 {
+	background-position: -256px 0;
+}
+.fsIconBullhorn {
+	background-position: -288px 0;
+}
+.fsIconConnection {
+	background-position: -320px 0;
+	width: 20px;
+}
+.fsIconPodcast {
+	background-position: -352px 0;
+}
+.fsIconFeed {
+	background-position: -384px 0;
+}
+.fsIconBooks {
+	background-position: -416px 0;
+}
+.fsIconFile {
+	background-position: -448px 0;
+}
+.fsIconFile2 {
+	background-position: -480px 0;
+}
+.fsIconFile3 {
+	background-position: 0 -32px;
+}
+.fsIconStack {
+	background-position: -32px -32px;
+}
+.fsIconFolder {
+	background-position: -64px -32px;
+}
+.fsIconFolderOpen {
+	background-position: -96px -32px;
+}
+.fsIconTag {
+	background-position: -128px -32px;
+}
+.fsIconTags {
+	background-position: -160px -32px;
+	width: 17px;
+}
+.fsIconBarcode {
+	background-position: -192px -32px;
+}
+.fsIconCart {
+	background-position: -224px -32px;
+}
+.fsIconCoin {
+	background-position: -256px -32px;
+}
+.fsIconCredit {
+	background-position: -288px -32px;
+}
+.fsIconSupport {
+	background-position: -320px -32px;
+}
+.fsIconPhone {
+	background-position: -352px -32px;
+}
+.fsIconPhoneHangUp {
+	background-position: -384px -32px;
+}
+.fsIconAddressBook {
+	background-position: -416px -32px;
+}
+.fsIconEnvelop {
+	background-position: -448px -32px;
+}
+.fsIconPushpin {
+	background-position: -480px -32px;
+}
+.fsIconLocation {
+	background-position: 0 -64px;
+}
+.fsIconCompass {
+	background-position: -32px -64px;
+}
+.fsIconClock {
+	background-position: -64px -64px;
+}
+.fsIconClock2 {
+	background-position: -96px -64px;
+}
+.fsIconAlarm {
+	background-position: -128px -64px;
+}
+.fsIconBell {
+	background-position: -160px -64px;
+}
+.fsIconCalendar {
+	background-position: -192px -64px;
+}
+.fsIconCalendar2 {
+	background-position: -224px -64px;
+}
+.fsIconPrint {
+	background-position: -256px -64px;
+}
+.fsIconKeyboard {
+	background-position: -288px -64px;
+	width: 18px;
+}
+.fsIconScreen {
+	background-position: -320px -64px;
+}
+.fsIconLaptop {
+	background-position: -352px -64px;
+}
+.fsIconMobile {
+	background-position: -384px -64px;
+}
+.fsIconMobile2 {
+	background-position: -416px -64px;
+}
+.fsIconTablet {
+	background-position: -448px -64px;
+}
+.fsIconTv {
+	background-position: -480px -64px;
+}
+.fsIconCabinet {
+	background-position: 0 -96px;
+}
+.fsIconDisk {
+	background-position: -32px -96px;
+}
+.fsIconUndo {
+	background-position: -64px -96px;
+}
+.fsIconRedo {
+	background-position: -96px -96px;
+}
+.fsIconUndo2 {
+	background-position: -128px -96px;
+}
+.fsIconRedo2 {
+	background-position: -160px -96px;
+}
+.fsIconForward {
+	background-position: -192px -96px;
+}
+.fsIconReply {
+	background-position: -224px -96px;
+}
+.fsIconBubble {
+	background-position: -256px -96px;
+}
+.fsIconBubbles {
+	background-position: -288px -96px;
+	width: 18px;
+}
+.fsIconBubbles2 {
+	background-position: -320px -96px;
+	width: 18px;
+}
+.fsIconBubble2 {
+	background-position: -352px -96px;
+}
+.fsIconBubbles3 {
+	background-position: -384px -96px;
+	width: 18px;
+}
+.fsIconBubbles4 {
+	background-position: -416px -96px;
+	width: 18px;
+}
+.fsIconUser {
+	background-position: -448px -96px;
+}
+.fsIconUsers {
+	background-position: -480px -96px;
+}
+.fsIconUser2 {
+	background-position: 0 -128px;
+}
+.fsIconUsers2 {
+	background-position: -32px -128px;
+}
+.fsIconUser3 {
+	background-position: -64px -128px;
+}
+.fsIconUser4 {
+	background-position: -96px -128px;
+}
+.fsIconQuotesLeft {
+	background-position: -128px -128px;
+}
+.fsIconBusy {
+	background-position: -160px -128px;
+}
+.fsIconSpinner {
+	background-position: -192px -128px;
+}
+.fsIconSpinner2 {
+	background-position: -224px -128px;
+}
+.fsIconSpinner3 {
+	background-position: -256px -128px;
+}
+.fsIconSpinner4 {
+	background-position: -288px -128px;
+}
+.fsIconSpinner5 {
+	background-position: -320px -128px;
+}
+.fsIconBinoculars {
+	background-position: -352px -128px;
+}
+.fsIconSearch {
+	background-position: -384px -128px;
+}
+.fsIconZoomIn {
+	background-position: -416px -128px;
+}
+.fsIconZoomOut {
+	background-position: -448px -128px;
+}
+.fsIconExpand {
+	background-position: -480px -128px;
+}
+.fsIconContract {
+	background-position: 0 -160px;
+}
+.fsIconExpand2 {
+	background-position: -32px -160px;
+}
+.fsIconContract2 {
+	background-position: -64px -160px;
+}
+.fsIconKey {
+	background-position: -96px -160px;
+}
+.fsIconLock {
+	background-position: -128px -160px;
+}
+.fsIconLock2 {
+	background-position: -160px -160px;
+}
+.fsIconUnlocked {
+	background-position: -192px -160px;
+}
+.fsIconWrench {
+	background-position: -224px -160px;
+}
+.fsIconSettings {
+	background-position: -256px -160px;
+}
+.fsIconEqualizer {
+	background-position: -288px -160px;
+}
+.fsIconCog {
+	background-position: -320px -160px;
+}
+.fsIconCogs {
+	background-position: -352px -160px;
+}
+.fsIconCog2 {
+	background-position: -384px -160px;
+}
+.fsIconAid {
+	background-position: -416px -160px;
+}
+.fsIconPie {
+	background-position: -448px -160px;
+}
+.fsIconStats {
+	background-position: -480px -160px;
+}
+.fsIconGift {
+	background-position: 0 -192px;
+}
+.fsIconTrophy {
+	background-position: -32px -192px;
+}
+.fsIconLeaf {
+	background-position: -64px -192px;
+	height: 15px;
+}
+.fsIconFire {
+	background-position: -96px -192px;
+	width: 18px;
+}
+.fsIconLab {
+	background-position: -128px -192px;
+}
+.fsIconRemove {
+	background-position: -160px -192px;
+}
+.fsIconBriefcase {
+	background-position: -192px -192px;
+}
+.fsIconAirplane {
+	background-position: -224px -192px;
+}
+.fsIconTruck {
+	background-position: -256px -192px;
+}
+.fsIconRoad {
+	background-position: -288px -192px;
+}
+.fsIconAccessibility {
+	background-position: -320px -192px;
+}
+.fsIconTarget {
+	background-position: -352px -192px;
+}
+.fsIconShield {
+	background-position: -384px -192px;
+}
+.fsIconLightning {
+	background-position: -416px -192px;
+}
+.fsIconSwitch {
+	background-position: -448px -192px;
+}
+.fsIconPowerCord {
+	background-position: -480px -192px;
+}
+.fsIconSignup {
+	background-position: 0 -224px;
+}
+.fsIconTree {
+	background-position: -32px -224px;
+}
+.fsIconCloud {
+	background-position: -64px -224px;
+}
+.fsIconCloudDownload {
+	background-position: -96px -224px;
+}
+.fsIconDownload {
+	background-position: -128px -224px;
+}
+.fsIconUpload {
+	background-position: -160px -224px;
+}
+.fsIconEarth {
+	background-position: -192px -224px;
+}
+.fsIconLink {
+	background-position: -224px -224px;
+	width: 17px;
+	height: 17px;
+}
+.fsIconFlag {
+	background-position: -256px -224px;
+}
+.fsIconAttachment {
+	background-position: -288px -224px;
+	height: 15px;
+}
+.fsIconEye {
+	background-position: -320px -224px;
+}
+.fsIconEyeBlocked {
+	background-position: -352px -224px;
+}
+.fsIconBookmark {
+	background-position: -384px -224px;
+}
+.fsIconBookmarks {
+	background-position: -416px -224px;
+}
+.fsIconBrightnessMedium {
+	background-position: -448px -224px;
+}
+.fsIconBrightnessContrast {
+	background-position: -480px -224px;
+}
+.fsIconContrast {
+	background-position: 0 -256px;
+}
+.fsIconStar {
+	background-position: -32px -256px;
+}
+.fsIconStar2 {
+	background-position: -64px -256px;
+}
+.fsIconStar3 {
+	background-position: -96px -256px;
+}
+.fsIconHeart {
+	background-position: -128px -256px;
+}
+.fsIconHeart2 {
+	background-position: -160px -256px;
+}
+.fsIconHeartBroken {
+	background-position: -192px -256px;
+}
+.fsIconThumbsUp {
+	background-position: -224px -256px;
+}
+.fsIconThumbsUp2 {
+	background-position: -256px -256px;
+}
+.fsIconWarning {
+	background-position: -288px -256px;
+	width: 17px;
+}
+.fsIconNotification {
+	background-position: -320px -256px;
+}
+.fsIconQuestion {
+	background-position: -352px -256px;
+}
+.fsIconInfo {
+	background-position: -384px -256px;
+}
+.fsIconInfo2 {
+	background-position: -416px -256px;
+}
+.fsIconBlocked {
+	background-position: -448px -256px;
+}
+.fsIconCancelCircle {
+	background-position: -480px -256px;
+}
+.fsIconCheckmarkCircle {
+	background-position: 0 -288px;
+}
+.fsIconSpam {
+	background-position: -32px -288px;
+}
+.fsIconClose {
+	background-position: -64px -288px;
+}
+.fsIconCheckmark {
+	background-position: -96px -288px;
+}
+.fsIconCheckmark2 {
+	background-position: -128px -288px;
+}
+.fsIconMinus {
+	background-position: -160px -288px;
+}
+.fsIconPlus {
+	background-position: -192px -288px;
+}
+.fsIconEnter {
+	background-position: -224px -288px;
+}
+.fsIconExit {
+	background-position: -256px -288px;
+}
+.fsIconPlay2 {
+	background-position: -288px -288px;
+}
+.fsIconPause {
+	background-position: -320px -288px;
+}
+.fsIconStop {
+	background-position: -352px -288px;
+}
+.fsIconBackward {
+	background-position: -384px -288px;
+}
+.fsIconForward2 {
+	background-position: -416px -288px;
+}
+.fsIconPlay3 {
+	background-position: -448px -288px;
+}
+.fsIconPause2 {
+	background-position: -480px -288px;
+}
+.fsIconStop2 {
+	background-position: 0 -320px;
+}
+.fsIconBackward2 {
+	background-position: -32px -320px;
+}
+.fsIconForward3 {
+	background-position: -64px -320px;
+}
+.fsIconFirst {
+	background-position: -96px -320px;
+}
+.fsIconLast {
+	background-position: -128px -320px;
+}
+.fsIconPrevious {
+	background-position: -160px -320px;
+}
+.fsIconNext {
+	background-position: -192px -320px;
+}
+.fsIconEject {
+	background-position: -224px -320px;
+}
+.fsIconVolumeHigh {
+	background-position: -256px -320px;
+	width: 17px;
+}
+.fsIconVolumeMedium {
+	background-position: -288px -320px;
+}
+.fsIconVolumeLow {
+	background-position: -320px -320px;
+}
+.fsIconVolumeMute {
+	background-position: -352px -320px;
+}
+.fsIconVolumeMute2 {
+	background-position: -384px -320px;
+}
+.fsIconVolumeIncrease {
+	background-position: -416px -320px;
+}
+.fsIconVolumeDecrease {
+	background-position: -448px -320px;
+}
+.fsIconLoop {
+	background-position: -480px -320px;
+}
+.fsIconLoop2 {
+	background-position: 0 -352px;
+}
+.fsIconLoop3 {
+	background-position: -32px -352px;
+}
+.fsIconShuffle {
+	background-position: -64px -352px;
+}
+.fsIconArrowUpLeft {
+	background-position: -96px -352px;
+}
+.fsIconArrowUp {
+	background-position: -128px -352px;
+}
+.fsIconArrowUpRight {
+	background-position: -160px -352px;
+}
+.fsIconArrowRight {
+	background-position: -192px -352px;
+}
+.fsIconArrowDownRight {
+	background-position: -224px -352px;
+}
+.fsIconArrowDown {
+	background-position: -256px -352px;
+}
+.fsIconArrowDownLeft {
+	background-position: -288px -352px;
+}
+.fsIconArrowLeft {
+	background-position: -320px -352px;
+}
+.fsIconArrowUpLeft2 {
+	background-position: -352px -352px;
+}
+.fsIconArrowUp2 {
+	background-position: -384px -352px;
+}
+.fsIconArrowUpRight2 {
+	background-position: -416px -352px;
+}
+.fsIconArrowRight2 {
+	background-position: -448px -352px;
+}
+.fsIconArrowDownRight2 {
+	background-position: -480px -352px;
+}
+.fsIconArrowDown2 {
+	background-position: 0 -384px;
+}
+.fsIconArrowDownLeft2 {
+	background-position: -32px -384px;
+}
+.fsIconArrowLeft2 {
+	background-position: -64px -384px;
+}
+.fsIconArrowUpLeft3 {
+	background-position: -96px -384px;
+}
+.fsIconArrowUp3 {
+	background-position: -128px -384px;
+}
+.fsIconArrowUpRight3 {
+	background-position: -160px -384px;
+}
+.fsIconArrowRight3 {
+	background-position: -192px -384px;
+}
+.fsIconArrowDownRight3 {
+	background-position: -224px -384px;
+}
+.fsIconArrowDown3 {
+	background-position: -256px -384px;
+}
+.fsIconArrowDownLeft3 {
+	background-position: -288px -384px;
+}
+.fsIconArrowLeft3 {
+	background-position: -320px -384px;
+}
+.fsIconTab {
+	background-position: -352px -384px;
+}
+.fsIconCheckboxChecked {
+	background-position: -384px -384px;
+}
+.fsIconCheckboxUnchecked {
+	background-position: -416px -384px;
+}
+.fsIconCheckboxPartial {
+	background-position: -448px -384px;
+}
+.fsIconRadioChecked {
+	background-position: -480px -384px;
+}
+.fsIconRadioUnchecked {
+	background-position: 0 -416px;
+}
+.fsIconCrop {
+	background-position: -32px -416px;
+}
+.fsIconScissors {
+	background-position: -64px -416px;
+}
+.fsIconFilter {
+	background-position: -96px -416px;
+}
+.fsIconTextHeight {
+	background-position: -128px -416px;
+}
+.fsIconTextWidth {
+	background-position: -160px -416px;
+}
+.fsIconPilcrow {
+	background-position: -192px -416px;
+}
+.fsIconLeftToRight {
+	background-position: -224px -416px;
+}
+.fsIconRightToLeft {
+	background-position: -256px -416px;
+}
+.fsIconNewTab {
+	background-position: -288px -416px;
+}
+.fsIconEmbed {
+	background-position: -320px -416px;
+}
+.fsIconCode {
+	background-position: -352px -416px;
+}
+.fsIconConsole {
+	background-position: -384px -416px;
+}
+.fsIconShare {
+	background-position: -416px -416px;
+}
+.fsIconMail {
+	background-position: -448px -416px;
+}
+.fsIconGooglePlus {
+	background-position: -480px -416px;
+}
+.fsIconFacebook {
+	background-position: 0 -448px;
+}
+.fsIconTwitter {
+	background-position: -32px -448px;
+}
+.fsIconFeed2 {
+	background-position: -64px -448px;
+}
+.fsIconVimeo {
+	background-position: -96px -448px;
+	width: 17px;
+}
+.fsIconFlickr {
+	background-position: -128px -448px;
+}
+.fsIconPicassa {
+	background-position: -160px -448px;
+}
+.fsIconDribbble {
+	background-position: -192px -448px;
+}
+.fsIconForrst {
+	background-position: -224px -448px;
+}
+.fsIconDeviantart {
+	background-position: -256px -448px;
+}
+.fsIconSteam {
+	background-position: -288px -448px;
+	width: 17px;
+}
+.fsIconGithub {
+	background-position: -320px -448px;
+}
+.fsIconGithub2 {
+	background-position: -352px -448px;
+}
+.fsIconWordpress {
+	background-position: -384px -448px;
+}
+.fsIconJoomla {
+	background-position: -416px -448px;
+}
+.fsIconBlogger {
+	background-position: -448px -448px;
+}
+.fsIconTumblr {
+	background-position: -480px -448px;
+}
+.fsIconTux {
+	background-position: 0 -480px;
+	width: 17px;
+	height: 17px;
+}
+.fsIconApple {
+	background-position: -32px -480px;
+}
+.fsIconAndroid {
+	background-position: -64px -480px;
+}
+.fsIconWindows8 {
+	background-position: -96px -480px;
+}
+.fsIconSoundcloud {
+	background-position: -128px -480px;
+}
+.fsIconSkype {
+	background-position: -160px -480px;
+}
+.fsIconReddit {
+	background-position: -192px -480px;
+}
+.fsIconLinkedin {
+	background-position: -224px -480px;
+}
+.fsIconLastfm {
+	background-position: -256px -480px;
+}
+.fsIconDelicious {
+	background-position: -288px -480px;
+}
+.fsIconStumbleupon {
+	background-position: -320px -480px;
+}
+.fsIconStackoverflow {
+	background-position: -352px -480px;
+}
+.fsIconPinterest {
+	background-position: -384px -480px;
+}
+.fsIconXing {
+	background-position: -416px -480px;
+}
+.fsIconFoursquare {
+	background-position: -448px -480px;
+}
+.fsIconPaypal {
+	background-position: -480px -480px;
+}
+.fsIconYelp {
+	background-position: 0 -512px;
+}
+.fsIconLibreoffice {
+	background-position: -32px -512px;
+}
+.fsIconFilePdf {
+	background-position: -64px -512px;
+}
+.fsIconFileOpenoffice {
+	background-position: -96px -512px;
+}
+.fsIconFileWord {
+	background-position: -128px -512px;
+}
+.fsIconFileExcel {
+	background-position: -160px -512px;
+}
+.fsIconFileXml {
+	background-position: -192px -512px;
+}
+.fsIconFileCss {
+	background-position: -224px -512px;
+}
+.fsIconHtml5 {
+	background-position: -256px -512px;
+}
+.fsIconCss3 {
+	background-position: -288px -512px;
+}
+.fsIconChrome {
+	background-position: -320px -512px;
+}
+.fsIconFirefox {
+	background-position: -352px -512px;
+	width: 17px;
+}
+.fsIconIE {
+	background-position: -384px -512px;
+}
+.fsIconOpera {
+	background-position: -416px -512px;
+}
+.fsIconSafari {
+	background-position: -448px -512px;
+}
+.fsIconIcoMoon {
+	background-position: -480px -512px;
+}

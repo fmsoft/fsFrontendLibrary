@@ -1,0 +1,14 @@
+
+/**
+ *  Button styles
+ *
+ *  @filename       common.css
+ *  @date           14.01.13
+ *  @author         fsSoft
+ *  @see            https://github.com/fmsoft/fsFrontendLibrary
+*/
+
+.fsDisabled{
+    cursor:default !important;
+    color:#9e9e9e;
+}
